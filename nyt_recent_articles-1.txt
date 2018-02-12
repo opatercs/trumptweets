@@ -1,0 +1,1947 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1528,
+  "results": [
+    {
+      "url": "http://www.nytimes.com/2016/12/12/us/politics/rex-tillerson-secretary-of-state-trump.html",
+      "adx_keywords": "Tillerson, Rex W;Trump, Donald J;State Department;Russia;Putin, Vladimir V;United States Politics and Government;United States International Relations",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MICHAEL D. SHEAR and MAGGIE HABERMAN",
+      "type": "Article",
+      "title": "Rex Tillerson, Exxon C.E.O., Chosen as Secretary of State",
+      "abstract": "In choosing the leader of an energy giant, President-elect Donald J. Trump is dismissing bipartisan concerns that Mr. Tillerson is too cozy with Vladimir V. Putin.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004818866,
+      "asset_id": 100000004818866,
+      "views": 1,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "STATE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TILLERSON, REX W",
+        "TRUMP, DONALD J",
+        "PUTIN, VLADIMIR V"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rex W. Tillerson, the chief executive of Exxon Mobil, at a shareholders meeting in Dallas in 2014.",
+          "copyright": "LM Otero/Associated Press",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-articleInline.jpg",
+              "format": "Normal",
+              "height": 121,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 654,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1307,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13tillerson/14tillerson-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/11/us/politics/cia-judgment-intelligence-russia-hacking-evidence.html",
+      "adx_keywords": "Central Intelligence Agency;Russia;Cyberwarfare and Defense;Trump, Donald J;Presidential Election of 2016;Putin, Vladimir V;Clinton, Hillary Rodham;Federal Bureau of Investigation",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MARK MAZZETTI and ERIC LICHTBLAU",
+      "type": "Article",
+      "title": "C.I.A. Judgment on Russia Built on Swell of Evidence",
+      "abstract": "The conclusion that Russia intervened in the election to help Donald J. Trump was based on what many believe is overwhelming circumstantial evidence, which is often the most intelligence analysts have at their disposal.",
+      "published_date": "2016-12-11",
+      "source": "The New York Times",
+      "id": 100000004816581,
+      "asset_id": 100000004816581,
+      "views": 2,
+      "des_facet": [
+        "CYBERWARFARE AND DEFENSE"
+      ],
+      "org_facet": [
+        "CENTRAL INTELLIGENCE AGENCY",
+        "FEDERAL BUREAU OF INVESTIGATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "PUTIN, VLADIMIR V",
+        "CLINTON, HILLARY RODHAM"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin last month at the Kremlin. The C.I.A. believes he deployed computer hackers with the goal of tipping the election to Donald J. Trump.",
+          "copyright": "Pool photo by Alexei Druzhinin",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-articleInline.jpg",
+              "format": "Normal",
+              "height": 128,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 690,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1380,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12INTEL/12INTEL-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/opinion/the-tainted-election.html",
+      "adx_keywords": "Presidential Election of 2016;Cyberwarfare and Defense;Russia;Trump, Donald J;Central Intelligence Agency;Federal Bureau of Investigation;Clinton, Hillary Rodham",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By PAUL KRUGMAN",
+      "type": "Article",
+      "title": "The Tainted Election",
+      "abstract": "Coming to grips with illegitimacy.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004814245,
+      "asset_id": 100000004814245,
+      "views": 3,
+      "des_facet": [
+        "CYBERWARFARE AND DEFENSE"
+      ],
+      "org_facet": [
+        "CENTRAL INTELLIGENCE AGENCY",
+        "FEDERAL BUREAU OF INVESTIGATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "CLINTON, HILLARY RODHAM"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump at a campaign event in Florida the Saturday before election day.",
+          "copyright": "Damon Winter/The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 682,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12krugmanWeb/12krugmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/us/politics/donald-trump-transition.html",
+      "adx_keywords": "Trump, Donald J;United States Politics and Government;Kelly, John F (1950- );McConnell, Mitch;Fiorina, Carleton S;Perry, Rick",
+      "column": "Transition Briefing",
+      "section": "U.S.",
+      "byline": "By JENNIFER STEINHAUER, JEREMY W. PETERS and AMY CHOZICK",
+      "type": "Article",
+      "title": "Clinton Campaign Demands Intelligence on Possible Russian Efforts to Elect Trump",
+      "abstract": "John D. Podesta, the Clinton campaign chairman, demands the declassification of intelligence he says would show Russia tried to elect Donald J. Trump. Mr. Trump sticks to denial.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004816768,
+      "asset_id": 100000004816768,
+      "views": 4,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "KELLY, JOHN F (1950- )",
+        "MCCONNELL, MITCH",
+        "FIORINA, CARLETON S",
+        "PERRY, RICK"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The lobby of Trump Tower on Sunday.",
+          "copyright": "Sam Hodgson for The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/12transitionbriefing-1/12transitionbriefing-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/13/magazine/al-franken-faces-donald-trump-and-the-next-four-years.html",
+      "adx_keywords": "Presidential Election of 2016;Comedy and Humor;Franken, Al;Trump, Donald J;United States Politics and Government",
+      "column": "Feature",
+      "section": "Magazine",
+      "byline": "By MARK LEIBOVICH",
+      "type": "Article",
+      "title": "Al Franken Faces Donald Trump and the Next Four Years",
+      "abstract": "The second-term Democratic senator, who once made a living satirizing politicians, envisions an unfunny future.",
+      "published_date": "2016-12-13",
+      "source": "The New York Times",
+      "id": 100000004815108,
+      "asset_id": 100000004815108,
+      "views": 5,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "FRANKEN, AL",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson/Redux, for The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/18/magazine/18franken1/18franken1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/us/politics/mcconnell-supports-inquiry-of-russian-hacking-during-election.html",
+      "adx_keywords": "Cyberwarfare and Defense;Russia;Presidential Election of 2016;McConnell, Mitch;United States Politics and Government;Senate;Central Intelligence Agency;Ryan, Paul D Jr;Trump, Donald J",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JENNIFER STEINHAUER",
+      "type": "Article",
+      "title": "Senate and House Leaders Call for Inquiry of Russian Hacking in Election",
+      "abstract": "Senator Mitch McConnell and Speaker Paul D. Ryan said they supported the investigations, setting up a possible conflict with President-elect Trump.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004817536,
+      "asset_id": 100000004817536,
+      "views": 6,
+      "des_facet": [
+        "CYBERWARFARE AND DEFENSE",
+        "PRESIDENTIAL ELECTION OF 2016",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "SENATE",
+        "CENTRAL INTELLIGENCE AGENCY"
+      ],
+      "per_facet": [
+        "MCCONNELL, MITCH",
+        "RYAN, PAUL D JR",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Reynolds/European Pressphoto Agency",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13cong-vid/13cong-vid-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/13/us/politics/rex-tillerson-secretary-state-trump.html",
+      "adx_keywords": "Tillerson, Rex W;State Department;Trump, Donald J;Appointments and Executive Changes",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MICHAEL D. SHEAR",
+      "type": "Article",
+      "title": "Trump Lines Up Establishment Republicans to Vouch for Rex Tillerson",
+      "abstract": "The Trump team is rolling out prominent endorsements for the secretary of state pick, hoping to ease concerns over his ties to Russia.",
+      "published_date": "2016-12-13",
+      "source": "The New York Times",
+      "id": 100000004819450,
+      "asset_id": 100000004819450,
+      "views": 7,
+      "des_facet": [
+        "APPOINTMENTS AND EXECUTIVE CHANGES"
+      ],
+      "org_facet": [
+        "STATE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TILLERSON, REX W",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rex W. Tillerson. His ties to President Vladimir V. Putin of Russia, made while working at Exxon Mobil, have raised questions.",
+          "copyright": "Joshua Roberts/Reuters",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1481642576801-articleInline.jpg",
+              "format": "Normal",
+              "height": 133,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1481642576801-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 716,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1481642576801-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1433,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/us/14tillerson-1/14tillerson-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/world/asia/if-donald-trump-pushes-on-taiwan-how-china-could-push-back.html",
+      "adx_keywords": "International Relations;International Trade and World Market;United States International Relations;Boeing Company;Ford Motor Co;General Motors;Trump, Donald J;Tsai Ing-wen;Xi Jinping;China;Taiwan",
+      "column": "",
+      "section": "World",
+      "byline": "By JANE PERLEZ",
+      "type": "Article",
+      "title": "If Donald Trump Pushes on Taiwan, How China Could Push Back",
+      "abstract": "The president-elect has suggested that the “One China” policy could be used as a bargaining chip, but China has some leverage of its own.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004817349,
+      "asset_id": 100000004817349,
+      "views": 8,
+      "des_facet": [
+        "INTERNATIONAL TRADE AND WORLD MARKET"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "FORD MOTOR CO",
+        "GENERAL MOTORS"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "TSAI ING-WEN",
+        "XI JINPING"
+      ],
+      "geo_facet": [
+        "CHINA",
+        "TAIWAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President-elect Donald J. Trump being interviewed by Chris Wallace of “Fox News Sunday” at Trump Tower in New York on Saturday.",
+          "copyright": "Richard Drew/Associated Press",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/13china_web1/13china_web1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/13/us/politics/kanye-trump-tower-visit.html",
+      "adx_keywords": "United States Politics and Government;Trump, Donald J;West, Kanye;Manhattan (NYC)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By KATIE ROGERS",
+      "type": "Article",
+      "title": "Kanye West Visits Donald Trump",
+      "abstract": "It is unclear why the musician stepped out of a recovery after being hospitalized and into the center of a media circus at Trump Tower in Manhattan.",
+      "published_date": "2016-12-13",
+      "source": "The New York Times",
+      "id": 100000004819695,
+      "asset_id": 100000004819695,
+      "views": 9,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "WEST, KANYE"
+      ],
+      "geo_facet": [
+        "MANHATTAN (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President-elect Donald J. Trump and Kanye West in the lobby of Trump Tower in New York on Tuesday.",
+          "copyright": "Sam Hodgson for The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-square320-v4.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 129,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-sfSpan-v4.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-jumbo-v3.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-superJumbo-v3.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-square640-v4.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-thumbLarge-v4.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/14xp-kanye/14xp-kanye-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/13/us/politics/rick-perry-energy-secretary-trump.html",
+      "adx_keywords": "Perry, Rick;Trump, Donald J;Energy Department",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By CORAL DAVENPORT",
+      "type": "Article",
+      "title": "Rick Perry, Ex-Governor of Texas, Is Trump’s Pick as Energy Secretary",
+      "abstract": "When he was running in the 2012 presidential race, Mr. Perry said he wanted to abolish the agency, but at a debate, he could not remember its name.",
+      "published_date": "2016-12-13",
+      "source": "The New York Times",
+      "id": 100000004819471,
+      "asset_id": 100000004819471,
+      "views": 10,
+      "des_facet": "",
+      "org_facet": [
+        "ENERGY DEPARTMENT"
+      ],
+      "per_facet": [
+        "PERRY, RICK",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rick Perry, a former governor of Texas, in the lobby of Trump Tower in New York on Monday.",
+          "copyright": "Sam Hodgson for The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/14/world/14Perry/14Perry-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/13/world/middleeast/syria-aleppo-civilians.html",
+      "adx_keywords": "Civilian Casualties;Aleppo (Syria);War Crimes, Genocide and Crimes Against Humanity;United Nations;Syria;vis-photo",
+      "column": "",
+      "section": "World",
+      "byline": "By ANNE BARNARD and NICK CUMMING-BRUCE",
+      "type": "Article",
+      "title": "‘A Complete Meltdown of Humanity’: Aleppo Civilians Gunned Down as They Flee",
+      "abstract": "As fighting in eastern Aleppo appeared to have stopped, the United Nations reported that pro-government forces in the Syrian city had killed scores, some shot in the street as they tried to flee.",
+      "published_date": "2016-12-13",
+      "source": "The New York Times",
+      "id": 100000004819449,
+      "asset_id": 100000004819449,
+      "views": 11,
+      "des_facet": [
+        "CIVILIAN CASUALTIES",
+        "VIS-PHOTO"
+      ],
+      "org_facet": [
+        "UNITED NATIONS"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "ALEPPO (SYRIA)",
+        "SYRIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A member of Syria’s government forces in Aleppo.",
+          "copyright": "George Ourfalian/Agence France-Presse — Getty Images",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/world/middleeast/14ALEPPO-WEB-slide-NXWH/14ALEPPO-WEB-slide-NXWH-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/interactive/2016/12/12/us/oakland-warehouse-ghost-ship-fire.html",
+      "adx_keywords": "",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By FORD FESSENDEN and ANJALI SINGHVI",
+      "type": "Interactive",
+      "title": "The Oakland Fire: What Happened Inside the Ghost Ship",
+      "abstract": "Diagrams and photographs showing the interior of the building illustrate some of the factors that made the fire so deadly.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004814815,
+      "asset_id": 100000004814815,
+      "views": 12,
+      "des_facet": [
+        "FIRES AND FIREFIGHTERS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "OAKLAND (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-square320-v3.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-articleInline-v2.png",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-sfSpan-v3.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-jumbo-v3.gif",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-superJumbo-v3.gif",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-square640-v3.png",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-thumbLarge-v3.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/us/oakland-warehouse-ghost-ship-fire-1481518660443/oakland-warehouse-ghost-ship-fire-1481518660443-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/opinion/patriotic-opposition-to-donald-trump.html",
+      "adx_keywords": "Demonstrations, Protests and Riots;Trump, Donald J;Immigration and Emigration;Race and Ethnicity;Discrimination;Women's Rights;Labor and Jobs;United States Politics and Government;Appointments and Executive Changes",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By CHARLES M. BLOW",
+      "type": "Article",
+      "title": "Patriotic Opposition to Donald Trump",
+      "abstract": "You may have been on the losing side of the election, but you are on the right side of history.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004814241,
+      "asset_id": 100000004814241,
+      "views": 13,
+      "des_facet": [
+        "DEMONSTRATIONS, PROTESTS AND RIOTS",
+        "IMMIGRATION AND EMIGRATION",
+        "RACE AND ETHNICITY",
+        "DISCRIMINATION",
+        "WOMEN'S RIGHTS",
+        "LABOR AND JOBS",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "APPOINTMENTS AND EXECUTIVE CHANGES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People voicing their opinion in an anti-Donald J. Trump rally in New York in November.",
+          "copyright": "Spencer Platt/Getty Images",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/opinion/12BLOW-web/12BLOW-web-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/11/arts/music/madonna-hillary-clinton-renegades.html",
+      "adx_keywords": "Madonna;Clinton, Hillary Rodham;Women's Rights;Women and Girls;Discrimination;Pop and Rock Music;Speeches and Statements",
+      "column": "",
+      "section": "Arts",
+      "byline": "By CARYN GANZ and PATRICK HEALY",
+      "type": "Article",
+      "title": "Madonna and Hillary: ‘Witch’ and ‘Nasty Woman’ as Sisters in Arms",
+      "abstract": "Two Times journalists looked at how Madonna’s recent speech about sexism put Hillary Clinton’s candidacy in fresh perspective.",
+      "published_date": "2016-12-11",
+      "source": "The New York Times",
+      "id": 100000004815961,
+      "asset_id": 100000004815961,
+      "views": 14,
+      "des_facet": [
+        "WOMEN'S RIGHTS",
+        "WOMEN AND GIRLS",
+        "DISCRIMINATION",
+        "POP AND ROCK MUSIC"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "MADONNA",
+        "CLINTON, HILLARY RODHAM"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madonna at the Billboard Women in Music 2016 event on Friday; and Hillary Clinton in October.",
+          "copyright": "Nicholas Hunt/Getty Images; Doug Mills/The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-articleInline.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 657,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1284,
+              "width": 2000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/arts/11MADONNAHILLARY-COMBO/11MADONNAHILLARY-COMBO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/10/17/t-magazine/michelle-obama-chimamanda-ngozi-adichie-gloria-steinem-letter.html",
+      "adx_keywords": "Obama, Michelle;First Ladies (US)",
+      "column": "",
+      "section": "T Magazine",
+      "byline": "By CHIMAMANDA NGOZI ADICHIE, GLORIA STEINEM, JON MEACHAM and RASHIDA JONES",
+      "type": "Article",
+      "title": "To the First Lady, With Love",
+      "abstract": "Four thank-you notes to Michelle Obama, who has spent the past eight years quietly and confidently changing the course of American history.",
+      "published_date": "2016-10-17",
+      "source": "The New York Times",
+      "id": 100000004659475,
+      "asset_id": 100000004659475,
+      "views": 15,
+      "des_facet": [
+        "FIRST LADIES (US)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "OBAMA, MICHELLE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": ".",
+          "copyright": "Collier Schorr",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-articleInline.jpg",
+              "format": "Normal",
+              "height": 238,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 817
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1633
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/10/17/t-magazine/michelle-obama-slide-3G05/michelle-obama-slide-3G05-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/us/politics/trump-f35-fighter-jet-tweet.html",
+      "adx_keywords": "Trump, Donald J;F-35 Airplane;Military Aircraft;Lockheed Martin Corporation;United States Defense and Military Forces;Israel;Carter, Ashton B",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MICHAEL D. SHEAR, CHRISTOPHER DREW and ISABEL KERSHNER",
+      "type": "Article",
+      "title": "Trump Joins Line of Critics of Costly Fighter Jet",
+      "abstract": "His criticism of the F-35 Joint Strike Fighter, posted on Twitter, continued a pattern in which the president-elect has targeted businesses for criticism and threatened presidential action.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004817821,
+      "asset_id": 100000004817821,
+      "views": 16,
+      "des_facet": [
+        "MILITARY AIRCRAFT",
+        "UNITED STATES DEFENSE AND MILITARY FORCES"
+      ],
+      "org_facet": [
+        "LOCKHEED MARTIN CORPORATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "CARTER, ASHTON B"
+      ],
+      "geo_facet": [
+        "ISRAEL"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rick Bowmer/Associated Press",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-articleInline.jpg",
+              "format": "Normal",
+              "height": 109,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 589,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1178,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13trump/13trump-vid-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html",
+      "adx_keywords": "",
+      "column": "",
+      "section": "World",
+      "byline": "Photographs and Text by DANIEL BEREHULAK",
+      "type": "Interactive",
+      "title": "‘They Are Slaughtering Us Like Animals’",
+      "abstract": "Inside President Rodrigo Duterte’s brutal antidrug campaign in the Philippines, our photojournalist documented 57 homicide victims over 35 days.",
+      "published_date": "2016-12-07",
+      "source": "The New York Times",
+      "id": 100000004769151,
+      "asset_id": 100000004769151,
+      "views": 17,
+      "des_facet": [
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS",
+        "DRUG ABUSE AND TRAFFIC"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DUTERTE, RODRIGO"
+      ],
+      "geo_facet": [
+        "PHILIPPINES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimji, 6, cried out in anguish, saying “Papa” as workers moved the body of her father, Jimboy Bolasa, 25, for burial.",
+          "copyright": "Daniel Berehulak for The New York Times",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/11/16/world/asia/Philippines-Edit-slide-LR8E/Philippines-Edit-slide-LR8E-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/world/europe/russia-trump-election-cia-fbi.html",
+      "adx_keywords": "Russia;Cyberattacks and Hackers;Trump, Donald J;Clinton, Hillary Rodham;WikiLeaks;Democratic National Committee;Republican National Committee",
+      "column": "The Interpreter",
+      "section": "World",
+      "byline": "By MAX FISHER",
+      "type": "Article",
+      "title": "Russia and the U.S. Election: What We Know and Don’t Know",
+      "abstract": "A guide to separating fact from rumor and speculation in a swirl of news about Russia’s electoral interference.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004817373,
+      "asset_id": 100000004817373,
+      "views": 18,
+      "des_facet": [
+        "CYBERATTACKS AND HACKERS"
+      ],
+      "org_facet": [
+        "WIKILEAKS",
+        "DEMOCRATIC NATIONAL COMMITTEE",
+        "REPUBLICAN NATIONAL COMMITTEE"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "CLINTON, HILLARY RODHAM"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia, right, has been praised by Donald J. Trump, who has repeatedly promised to realign the United States with Russia.",
+          "copyright": "Pool photo by Sergei Karpukhin",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-articleInline.jpg",
+              "format": "Normal",
+              "height": 144,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 778,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1557,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/13/us/13int-russia/13int-russia-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/08/opinion/the-american-dream-quantified-at-last.html",
+      "adx_keywords": "Income Inequality;Taxation;Recession and Depression;Labor and Jobs;Gross Domestic Product;United States Economy",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By DAVID LEONHARDT",
+      "type": "Article",
+      "title": "The American Dream, Quantified at Last",
+      "abstract": "Research shows that only half of Americans in their 30s earn more than their parents did at the same age. A few decades ago, nearly all adults did.",
+      "published_date": "2016-12-08",
+      "source": "The New York Times",
+      "id": 100000004807702,
+      "asset_id": 100000004807702,
+      "views": 19,
+      "des_facet": [
+        "INCOME INEQUALITY",
+        "TAXATION",
+        "RECESSION AND DEPRESSION",
+        "GROSS DOMESTIC PRODUCT"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Rehm and his family in Levittown, N.Y., in 1951. According to the Census Bureau, Mr. Rehm was the “average American”: a semi-skilled worker with a wife and two children, and an average income of about $3,000.",
+          "copyright": "Bettmann/Getty Images",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 198,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 868
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1736
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/11/opinion/sunday/11leonhardt-web/11leonhardt-web-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/12/12/upshot/the-power-of-simple-life-changes-to-prevent-heart-disease.html",
+      "adx_keywords": "Health Care Decoded;Heart;Genetics and Heredity;Diet and Nutrition;Statins (Cholesterol-Lowering Drugs);New England Journal of Medicine;Exercise;Research",
+      "column": "The Upshot",
+      "section": "The Upshot",
+      "byline": "By AARON E. CARROLL",
+      "type": "Article",
+      "title": "The Power of Simple Life Changes to Prevent Heart Disease",
+      "abstract": "Drugs like statins are helpful, but healthful habits can achieve much larger gains than many things we pay billions for.",
+      "published_date": "2016-12-12",
+      "source": "The New York Times",
+      "id": 100000004783785,
+      "asset_id": 100000004783785,
+      "views": 20,
+      "des_facet": [
+        "GENETICS AND HEREDITY",
+        "DIET AND NUTRITION",
+        "EXERCISE",
+        "RESEARCH"
+      ],
+      "org_facet": [
+        "NEW ENGLAND JOURNAL OF MEDICINE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jack Sachs",
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-articleInline.png",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-sfSpan.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-jumbo-v2.gif",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-superJumbo.png",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-square640.png",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/12/12/upshot/13up-healthlife/13up-healthlife-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
